@@ -1,0 +1,81 @@
+.div-1{
+    background-color: blueviolet;
+    height: 30px;
+    width: 100%;
+  
+}
+.navbar-nav a {
+    color: white;
+    text-align: center;
+}
+.navbar-nav a:hover{
+    background-color: red;
+}
+.an{
+    list-style-type: none;
+    text-decoration: none;
+    text-align: center;
+}
+.ul-4 li{
+    list-style-type: none;
+}
+.ul-4 a:hover{
+    color: rgb(43, 255, 0);
+}
+
+.ul-4 li{
+    padding-left: 10px;
+}
+.b{
+    background-color: rgba(0, 0, 0, 0.466);
+    color: white;
+    font-size:0.8rem;
+}
+.b:hover{
+    color: black;
+}
+.div-2{
+    background-color: rgb(17, 99, 17);
+    height: 30px;
+    width: 100%;
+}
+.div-3{
+    background-color: green;
+    height: 50px;
+    width: 100%;
+}
+.div-4{
+    background-color: green;
+    height: 30px;
+    width: 100%; 
+}
+.dropdown{
+    width: 100%;
+}
+.div-5{
+    background-color: green;
+    height: 30px;
+    width: 100%; 
+}
+.lastA a{
+    font-size: small;
+    color: black;
+    padding:13px;
+    text-decoration: none;
+}
+.lastB a{
+    text-decoration: none;
+    color: black;
+
+}
+#listt{
+    border-left:1px solid silver;
+}
+footer a:hover{
+    text-decoration:underline;
+}
+.div6{
+    background-color: rgb(160, 78, 236);
+    height:2px;
+    width:100%;
+}
